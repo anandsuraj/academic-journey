@@ -165,8 +165,6 @@ This repository showcases my academic journey through advanced AI/ML concepts, f
 - 🔄 **Advanced Computer Vision** (In Progress)
 - 🔄 **MLOps & Production Systems** (Planned)
 - 🔄 **Research Project** (Topic Selection Phase)
-- 📅 **Industry Internship** (Summer 2024)
-
 ---
 
 ## 🔧 Setup & Usage
@@ -240,7 +238,7 @@ python crossword_game.py
 M.Tech Student, BITS Pilani  
 🎓 Specialization: Artificial Intelligence & Machine Learning  
 
-� G**Email**: [Contact via GitHub](https://github.com/anandsuraj)  
+� G**Email**: [surya13493@gmail.com](mailto:surya13493@gmail.com)  
 🐙 **GitHub**: [github.com/anandsuraj](https://github.com/anandsuraj)  
 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/anandsuraj)  
 🌐 **Portfolio**: [View all projects](https://github.com/anandsuraj?tab=repositories)
