@@ -56,28 +56,6 @@ This repository showcases my academic journey through advanced AI/ML concepts, f
 
 ---
 
-## 📅 Recent Updates & Project Timeline
-
-### 🆕 Latest Additions (2024)
-- **February 2024**: Financial Sentiment Analysis with Word2Vec implementations
-- **January 2024**: Deep Reinforcement Learning for Medical AI (Sepsis Treatment)
-- **December 2023**: Autonomous Drone Battery Management System
-- **November 2023**: Deep Neural Network Architecture Comparison Study
-
-### 🔄 Currently Working On
-- Advanced Computer Vision projects
-- MLOps pipeline development
-- Research paper implementations
-
-### 📈 Growth Metrics
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/anandsuraj/academic-journey)
-![GitHub last commit](https://img.shields.io/github/last-commit/anandsuraj/academic-journey)
-![GitHub repo size](https://img.shields.io/github/repo-size/anandsuraj/academic-journey)
-
-*This repository is actively maintained and updated with new projects regularly!*
-
----
-
 ## 🧠 Core Domains
 
 ### 🎮 **Game AI & Search Algorithms**
@@ -189,13 +167,6 @@ This repository showcases my academic journey through advanced AI/ML concepts, f
 - 🔄 **Research Project** (Topic Selection Phase)
 - 📅 **Industry Internship** (Summer 2024)
 
-### 📊 Project Statistics
-- **Total Projects**: 8+ (and growing)
-- **Domains Covered**: 4 major AI/ML areas
-- **Technologies Mastered**: 15+ frameworks and tools
-- **Lines of Code**: 10,000+ (documented and tested)
-- **Research Papers Referenced**: 25+
-
 ---
 
 ## 🔧 Setup & Usage
@@ -276,7 +247,7 @@ M.Tech Student, BITS Pilani
 
 ### 🤝 Collaboration & Opportunities
 - Open to **research collaborations** in AI/ML
-- Available for **internships** and **project partnerships**
+- Available for **project partnerships**
 - Interested in **mentoring** junior developers
 - Always excited to discuss **innovative AI applications**
 
@@ -304,13 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Cite** this work in your academic projects (see LICENSE)
 - **Collaborate** on research ideas and implementations
 - **Share** your own AI/ML projects for community learning
-
-### 🏢 For Recruiters & Industry
-- **Explore** project implementations and code quality
-- **Assess** technical skills and problem-solving approaches
-- **Connect** for internship and job opportunities
-- **Discuss** potential collaboration projects
-
 ---
 
 ## 🙏 Acknowledgments
@@ -323,14 +287,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Repository Analytics
-
-![Profile Views](https://komarev.com/ghpvc/?username=anandsuraj&color=blue&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/anandsuraj?style=social)](https://github.com/anandsuraj)
-
----
-
 *⭐ If you find this repository helpful for your AI/ML journey, please consider giving it a star!*  
 *🔔 Watch this repository to stay updated with new projects and implementations!*
-
-**Last Updated**: February 2024 | **Next Update**: March 2024 (Computer Vision Projects)
