@@ -5,13 +5,8 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)](https://pytorch.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org)
-[![GitHub](https://img.shields.io/badge/GitHub-anandsuraj-black.svg)](https://github.com/anandsuraj)
 
 > *A comprehensive collection of AI/ML projects, assignments, and research implementations from my M.Tech program at BITS Pilani. This repository demonstrates practical applications across Deep Learning, Reinforcement Learning, Natural Language Processing, and Game AI.*
-
-**🔗 GitHub Profile**: [github.com/anandsuraj](https://github.com/anandsuraj)  
-**📈 Repository Stats**: ![GitHub stars](https://img.shields.io/github/stars/anandsuraj/academic-journey?style=social) ![GitHub forks](https://img.shields.io/github/forks/anandsuraj/academic-journey?style=social)
-
 ---
 
 ## 📋 Table of Contents
