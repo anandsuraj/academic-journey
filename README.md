@@ -182,8 +182,8 @@ source ai-ml-env/bin/activate  # On Windows: ai-ml-env\Scripts\activate
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/anandsuraj/academic-journey.git
-cd academic-journey
+git clone https://github.com/anandsuraj/mtech-ai-ml-journey.git
+cd mtech-ai-ml-journey
 
 # Install dependencies
 pip install -r requirements.txt
